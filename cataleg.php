@@ -118,8 +118,9 @@ $(document).ready(function(){
 
 <!-- =================[PEU DE LA PÀGINA]=================== -->
 <footer class="container-fluid text-center">
-  <p>Grup 1: Andrés Moreno, Jordi Simó, Noelia Barrera, Javier Lopez </p>
-  <p>Professor: Alex Milian</p>
+        <p>Grup 1: Andrés Moreno, Jordi Simó, Noelia Barrera, Javier López </p>
+        <p>Professor: Àlex Milián Sangüessa</p>
+        <a href="avis_legal.html">Avís legal</a>
 </footer>
 
 </body>
